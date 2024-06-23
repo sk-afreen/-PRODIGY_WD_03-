@@ -16,6 +16,7 @@ Responsive Design: Enjoy Tic-Tac-Toe on any device with our fully responsive des
 User-Friendly Interface: With intuitive controls and a clean layout, our application ensures that players of all ages can easily navigate and enjoy the game.
 
 How to Play:
+
 Start the Game: Click on any cell in the grid to make your move.
 Listen and React: Each click triggers a sound effect, enhancing your engagement.
 Win, Lose, or Draw: The game ends with a sound that signifies the result—victory, defeat, or a draw.
