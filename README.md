@@ -1,7 +1,7 @@
 #"PRODIGY_WD_TrackCode_3"
 <p>
-  this is a description of my project.
-  Tic-Tac-Toe Web Application
+this is a description of my project.
+Tic-Tac-Toe Web Application
 Welcome to our immersive Tic-Tac-Toe web application, designed to enhance your classic gaming experience with interactive sounds and dynamic gameplay.
 
 Features:
