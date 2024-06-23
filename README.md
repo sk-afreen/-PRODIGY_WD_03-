@@ -7,6 +7,7 @@ Tic-Tac-Toe Web Application
 Welcome to our immersive Tic-Tac-Toe web application, designed to enhance your classic gaming experience with interactive sounds and dynamic gameplay.
 
 Features:
+
 Interactive Sound Effects: Every move you make is accompanied by a satisfying click sound, providing immediate auditory feedback. The sound effects create an engaging atmosphere and enhance the overall gaming experience.
 
 Game Over Sounds:
